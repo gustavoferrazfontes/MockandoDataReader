@@ -1,0 +1,14 @@
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Repositorio.dll.config
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Repositorio.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Repositorio.pdb
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\EntityFramework.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\EntityFramework.xml
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\obj\Debug\Repositorio.dll
+E:\GitHub\DemoMockDataReader\MockandoDataReader\Repositorio\obj\Debug\Repositorio.pdb
